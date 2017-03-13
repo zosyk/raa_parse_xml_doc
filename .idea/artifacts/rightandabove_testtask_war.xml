@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rightandabove-testtask:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="test-task-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="rightandabove-testtask:war exploded" />
+    </root>
+  </artifact>
+</component>
